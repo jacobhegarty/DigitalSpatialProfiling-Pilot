@@ -28,14 +28,11 @@ countData<-countData[,-1]
 countData<-round(countData)
 rownames(countData)<-targetNames
 
-
 rownames(pheno)<-pheno$sample
 #model variables to factors
 pheno$psychosis<-factor(pheno$psychosis)
 pheno$cortex<-factor(pheno$cortex)
 pheno$plaque<-factor(pheno$plaque)
-pheno$BBNID<-factor(pheno$BBNID)
-
 
 
 #filter pheno and count
