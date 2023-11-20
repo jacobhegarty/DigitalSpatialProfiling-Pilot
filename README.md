@@ -33,6 +33,6 @@ ensure data protection is adhered to.
 
 This is not a perfect analysis, and the field of spatial transcriptions
 is rapidly evolving. This code is published as an aid to individuals
-learning R for transcriptions analysis in the hope that it can be of
+learning R for transcriptional analysis in the hope that it can be of
 some use. A report on the findings of this pilot study is available on
 request.
